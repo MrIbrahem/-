@@ -1,4 +1,4 @@
-; هذا المف يستخدمه بوت: [https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85:Mr.Ibrahembot Mr.Ibrahembot] لإنشاء التصنيفات في ويكيبيديا العربية.
+; هذا المف يستخدمه بوت: [Mr.Ibrahembot](https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85:Mr.Ibrahembot) لإنشاء التصنيفات في ويكيبيديا العربية.
 ### جنسيات العالم (جنسية بالإنجليزي، وبالعربي: المفرد والجمع للمذكر والمؤنث، واسم البلد)
 
 #### مثال:
@@ -15,3 +15,4 @@
     }
 }
 ````
+# add link in markdown
